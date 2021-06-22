@@ -10,6 +10,7 @@
 # apps 各类应用层文件
 --IPC
 --webrtc
+--热红外
 --
 
 # middle
@@ -23,8 +24,10 @@
 7.
 
 ## lib
+1. 
+2. 
 
-
-# hw
+# hw(adapter,适配层)
 ## platfowm
+
 
