@@ -29,5 +29,12 @@
 
 # hw(adapter,适配层)
 ## platfowm
+1. nextvpu 
+2. hisi3519a
+3. 君正
+4. 瑞星微
+5. 联咏
+
+以上平台默认的sdk安装好后，抽象出共用的api供上层使用
 
 
